@@ -1,0 +1,48 @@
+using System;
+
+public sealed class Logger
+{
+    private static Logger instance;
+
+    // Private constructor
+    private Logger()
+    {
+    }
+
+    // Returns the single instance of Logger
+    public static Logger GetInstance()
+    {
+        if (instance == null)
+        {
+            instance = new Logger();
+        }
+
+        return instance;
+    }
+
+    // Method to display log message
+    public void Log(string message)
+    {
+        Console.WriteLine("LOG: " + message);
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Logger logger1 = Logger.GetInstance();
+        Logger logger2 = Logger.GetInstance();
+
+        logger1.Log("Application Started");
+
+        if (Object.ReferenceEquals(logger1, logger2))
+        {
+            Console.WriteLine("Both objects are the same (Singleton).");
+        }
+        else
+        {
+            Console.WriteLine("Objects are different.");
+        }
+    }
+}
