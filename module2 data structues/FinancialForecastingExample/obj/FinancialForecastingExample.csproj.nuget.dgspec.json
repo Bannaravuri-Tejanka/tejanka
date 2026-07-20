@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj": {}
+    "C:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj": {
+    "C:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
+        "projectUniqueName": "C:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
         "projectName": "FinancialForecastingExample",
-        "projectPath": "c:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
+        "projectPath": "C:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
         "packagesPath": "C:\\Users\\sunda\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\obj\\",
+        "outputPath": "C:\\Users\\sunda\\OneDrive\\Documents\\GitHub\\Deep-Skilling\\Design patterns and principles\\module2 data structues\\FinancialForecastingExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sunda\\AppData\\Roaming\\NuGet\\NuGet.Config"
